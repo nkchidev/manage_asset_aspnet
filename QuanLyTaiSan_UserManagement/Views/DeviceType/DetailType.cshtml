@@ -1,0 +1,93 @@
+﻿<div class="modal fade" id="edittype" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">Loại Thiết Bị</h4>
+            </div>
+            <div class="modal-body">
+                <div class="form-group m-bot15 clearfix ">
+                    <label class="control-label col-md-4 ">Tên Loại</label>
+                    <div class="col-md-8 ">
+                        <input type="text" class="form-control myctr form" id="TypeName" name="TypeName">
+                        <input type="hidden" id="hidID" />
+                    </div>
+                </div>
+                <div class="form-group m-bot15 clearfix">
+                    <label class="control-label col-md-4 ">Notes</label>
+                    <div class="col-md-8">
+                        <textarea class="form-control form myctr" rows="5" id="Notes" name="Notes"></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button data-dismiss="modal" class="btn btn-default" type="button">Hủy</button>
+                <button class="btn btn-warning" onclick="EditType()">Sửa</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var GetDetail= function(Id){
+        $('#edittype').modal('show');
+        var id = Id;
+        $.ajax({
+            url: '/DeviceType/GetDetail',
+            data: {
+                id: id
+            },
+            type: 'GET',
+            dataType: 'json',
+            success: function (response) {
+                    var data = response.data;
+                    $('#hidID').val(data.Id);
+                    $('#TypeName').val(data.TypeName);
+                    $('#Notes').val(data.Notes);
+            },
+        });
+    }
+    var EditType = function () {
+        var dvId = $("#hidID").val();
+        var TypeName = $("#TypeName").val();
+        var Notes = $("#Notes").val();
+        $.ajax({
+            url: '/DeviceType/EditDeviceType',
+            data: {
+                Id: dvId,
+                TypeName: TypeName,
+                Notes: Notes
+            },
+            type: 'POST',
+            dataType: 'json',
+            success: function (result) {
+                if (result) {
+                    $("#edittype").modal("hide");
+                    window.location = '@Url.Action("DeviceType", "DeviceType")';
+                } else {
+                    $("#edittype").modal("hide");
+                    alert("Sửa lỗi");
+                }
+            }
+        });
+    }
+</script>
+
+
+
+
+
+
+
+<div style="padding-top: 23px;margin-right:30px;overflow:hidden;display:inline-block">
+    <table border="1" style=";display:inline-block;width: 335px;height: 180px;">
+        <tbody>
+            <tr style="font-weight: bold;text-align: center;border: none;"> <td> Tem thông tin thiết bị </td> </tr>
+            <tr style="border: none;">
+                <td style="padding: 3px;">
+                    Tên thiết bị: máy abcs zncnsjnvjd
+                </td>
+            </tr>
+            <tr style="border: none;"> <td> <table style="width: 100%;"> <tbody> <tr> <td style="width: 230px;border-right: 1px solid black;padding-top: 5px;"> Model: TEST FILE 2221 <br><hr style="/* margin: 1px; */"> Mã code: value mã code <br><hr style="/* margin: 1px; */"> Ngày nhập: dd/mm/yyyy</td> <td style="text-align:width: 100px;border-width: 1px;"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAABXCAYAAABxyNlsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOESURBVHhe7ZDBamQxDATz/z+dxZBDkXWFbmQzFxfUpZ/amtHX9+Ma77gXece9yDvuRd5xL/KOe5F33Iu8417kHfci77gXece9yDvuRerjfn19HZdYTjhDye771JZ33MKWd9zCltFxJyTvTGYsb5m8Uzcmy0jyzmTG8pbJO3Vjsowk70xmLG+ZvFM3bBlzkyS5SSa5SSxPqBu2jLlJktwkk9wklifUDVvG3CRJbpJJbhLLE+qGLWNukiSnZPd9SZLcJJYn1A1bxtwkSU7J7vuSJLlJLE+oG7aMuUmSnJLd9yVJcpNYnlA3bBlzk1hu2PwkN4nlCXXDljE3ieWGzU9yk1ieUDdsGXOTWG7Y/CQ3ieUJdWOyjNg7zKlhM5a3TN6pG5NlxN5hTg2bsbxl8k7dmCwj9g5zatiM5S2Td+oGl52S3MhP2VI3dkunkhv5KVvqxm7pVHIjP2VL37jM7k8tjWTmU7zjXuQd9yKjX2R/LMk/Jdl9XxLLE/oGsMVJ/inJ7vuSWJ7QN4AtTvJPSXbfl8TyhLrBZYkkyWnCrrckSZ7YUjd2S/+SJDlN2PWWJMkTW+rGbulfkiSnCbvekiR5YkvdsGWncoPzJtl9/y2xfEL9kv2IU7nBeZPsvv+WWD6hfsl+xKnc4LxJdt9/SyyfUL/EH5E4Yffekuy+37LlHbew5R23sGX073c/YEmSnJIkbzV2s8sJo/buxyxJklOS5K3GbnY5YdTe/ZglSXJKkrzV2M0uJ8zaF7A/xpyS3feTtrzjFra84xa21I3d0qlk9/23CTbPnN7gHffHG7zj/niD0XEn2DtJTo3d7JK0eUvdPrZY3klyauxml6TNW+r2scXyTpJTYze7JG3eUrdtMXOTWE5sJslpgs1bnlA3bBlzk1hObCbJaYLNW55QN2wZc5NYTmwmyWmCzVueUDdsGXOTnMoJZ8yEXW/ZUjdsGXOTnMoJZ8yEXW/ZUjdsGXOTnMoJZ8yEXW/ZUjdsGXOTWE5sJskpOZUn1A1bxtwklhObSXJKTuUJdcOWMTeJ5cRmkpySU3lC3ZgsI/ZOkpvGbnaZ0M6TujFZRuydJDeN3ewyoZ0ndWOyjNg7SW4au9llQjtP6gaXnTIhmW9nzFO84248xTvuxlOce+nxH++4F3nHvcg77kXecS/yjnuRd9yLvONe5B33Iu+4F3nHvcg77jW+v/8B/OXFOp1oz94AAAAASUVORK5CYII=" style=""> </td> </tr> </tbody> </table> </td> </tr>
+        </tbody>
+    </table>
+</div>

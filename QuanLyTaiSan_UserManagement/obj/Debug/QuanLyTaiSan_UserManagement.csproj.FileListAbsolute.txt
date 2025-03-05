@@ -1,0 +1,1494 @@
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csprojAssemblyReference.cache
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csprojAssemblyReference.cache
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\DU_AN_TECHPLUS\Q_L_T_S_UPDATE\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_DEV\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Owin.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+C:\Users\ADMIN\Downloads\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SourceCode-20220825T153926Z-001\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\DATN_QLTSCongTy_SHARECODE\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\PROJECT_TECHPLUS\Project_QLTS\SHARE_CODE_QLTS_08052022\Source_full_SHARE_CODE_QLTS_08052022\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Owin.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\source\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Owin.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+E:\TEST_QLTS\DATN_QLTSCongTy_SourceCode\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\QLTS_BanduthiCCHC2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\QLTS_BanduthiCCHC2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\QLTS_BanduthiCCHC2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\QLTS_BanduthiCCHC2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\QLTS_BanduthiCCHC2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+E:\PHẦN MỀM\PHẦN MỀM QUẢN LÝ TÀI SẢN\QLTS_BanduthiCCHC2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTa.5349C278.Up2Date
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTa.5349C278.Up2Date
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\LinhVQ\Work\Freelancer\backend-web\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Owin.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CopyComplete
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+E:\PHẦN MỀM\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTa.5349C278.Up2Date
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\XA\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\ApplicationInsights.config
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\csc.exe
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\vbc.exe
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll.config
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QuanLyTaiSan_UserManagement.pdb
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Owin.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\QRCoder.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\WebGrease.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.Web.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.ApplicationInsights.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Helpers.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Mvc.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Optimization.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.Razor.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\System.Web.WebPages.Razor.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Antlr3.Runtime.pdb
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.pdb
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\zxing.presentation.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Newtonsoft.Json.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\EntityFramework.SqlServer.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.AssemblyReference.cache
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.InitialCreate.resources
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Migrations.UserAuthorization.resources
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.Properties.Resources.resources
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.GenerateResource.cache
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.csproj.CoreCompileInputs.cache
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTa.5349C278.Up2Date
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.dll
+D:\Freelance\QLTS_2023\QuanLyTaiSan_UserManagement\obj\Debug\QuanLyTaiSan_UserManagement.pdb
