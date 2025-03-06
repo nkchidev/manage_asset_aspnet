@@ -43,7 +43,7 @@
         {
             @Html.AntiForgeryToken()
             <div class="col-md-10 ">
-                @if (ViewBag.Role == "ADMIN" || ViewBag.Role == "DIRECTOR")
+                @* @if (ViewBag.Role == "ADMIN" || ViewBag.Role == "DIRECTOR")
                 {
                     <div class="col-md-2 TcssMarg select2css ">
                         <select class="m-bot15 form-control myctr " name="DepartmentId" id="DepartmentId">
@@ -54,7 +54,7 @@
                             }
                         </select>
                     </div>
-                }
+                } *@
 
                 <div class="col-md-2 TcssMarg select2css ">
                     <select class="m-bot15 form-control myctr " name="ManagerProject" id="ManagerProject">
