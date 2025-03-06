@@ -97,6 +97,17 @@
                         </div>
                     </div>
                     <div class="form-group">
+                        <label class="col-md-4 control-label"> Quyền </label>
+                        <div class="col-md-8">
+                            <select class="form-control" style="color: #888484" name="Role" id="Role">
+                                @foreach (var item in ViewData["Roles"] as IList<UserGroup>)
+                                {
+                                    <option value="@item.ID">@item.Name</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
                         <label class="col-md-4 control-label"> Phòng ban </label>
                         <div class="col-md-8">
                             <select class="form-control" style="color: #888484" name="Department" id="Department">
@@ -114,17 +125,6 @@
                                 @foreach (var item in (ViewData["Department"] as IList<GetUnitsById_Result>).Where(x => x.HasChild == 0).ToList())
                                 {
                                     <option value="@item.Id">@item.ProjectName</option>
-                                }
-                            </select>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label class="col-md-4 control-label"> Quyền </label>
-                        <div class="col-md-8">
-                            <select class="form-control" style="color: #888484" name="Role" id="Role">
-                                @foreach (var item in ViewData["Roles"] as IList<UserGroup>)
-                                {
-                                    <option value="@item.ID">@item.Name</option>
                                 }
                             </select>
                         </div>
