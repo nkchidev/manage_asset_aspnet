@@ -1909,7 +1909,7 @@ namespace QuanLyTaiSan_UserManagement.Models
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SearchProject_Result>("SearchDepartStage", managerProjectParameter, statusParameter, typeProjectParameter, projectSymbolParameter, hasChildParameter, parentIdParameter, departmentIdParameter);
         }
     
-        public virtual ObjectResult<GetUnitsById_Result> GetUnitsById(Nullable<int> id, string userName)
+        public virtual ObjectResult<GetUnitsById_Result> GetUnitsById(Nullable<int> id, string userName, int ManagerProject = 0, string ProjectSymbol = null)
         {
             var idParameter = id.HasValue ?
                 new ObjectParameter("Id", id) :
@@ -1918,8 +1918,16 @@ namespace QuanLyTaiSan_UserManagement.Models
             var userNameParameter = userName != null ?
                 new ObjectParameter("UserName", userName) :
                 new ObjectParameter("UserName", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetUnitsById_Result>("GetUnitsById", idParameter, userNameParameter);
+
+            var managerProjectParameter = ManagerProject != 0 ?
+                new ObjectParameter("ManagerProject", ManagerProject) :
+                new ObjectParameter("ManagerProject", typeof(int));
+
+            var ProjectSymbolParameter = ProjectSymbol != null ?
+                new ObjectParameter("ProjectSymbol", ProjectSymbol) :
+                new ObjectParameter("ProjectSymbol", typeof(string));
+
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetUnitsById_Result>("GetUnitsById", idParameter, userNameParameter, managerProjectParameter, ProjectSymbolParameter);
         }
     
         public virtual ObjectResult<SearchDevice_Result> SearchDevice(Nullable<int> status, Nullable<int> devicetype, Nullable<int> guarantee, Nullable<int> projectid, string devicecode, string userName)

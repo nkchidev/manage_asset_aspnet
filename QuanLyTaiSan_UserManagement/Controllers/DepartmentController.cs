@@ -53,12 +53,12 @@ namespace QuanLyTaiSan_UserManagement.Controllers
 
             ViewData["User"] = Ql.Users.Where(x => x.Status != 1 && x.IsDeleted == false).ToList();
             String ProjectSymbol = colection["ProjectSymbol"].Trim();
-            int? ManagerProject = colection["ManagerProject"].Equals("0") ? (int?)null : Convert.ToInt32(colection["ManagerProject"]);
-            var lstProject = Ql.GetUnitsById(departmetnId, session.UserName).ToList().Where(x => x.HasChild ==  1).ToList().OrderByDescending(x => x.ModifiedDate);
+            int ManagerProject = colection["ManagerProject"].Equals("0") ? 0 : Convert.ToInt32(colection["ManagerProject"]);
+            var lstProject = Ql.GetUnitsById(departmetnId, session.UserName, ManagerProject, ProjectSymbol).ToList().Where(x => x.HasChild ==  1).ToList().OrderByDescending(x => x.ModifiedDate);
             var ViewProject = lstProject;
             ViewBag.ManagerProject = ManagerProject;
             ViewBag.ProjectSymbol = ProjectSymbol;
-            ViewBag.ProjectNb = Ql.GetUnitsById(departmetnId, session.UserName).Where(x => x.HasChild == 1).ToList().Count();
+            ViewBag.ProjectNb = lstProject.Count();
             return View("Department", ViewProject);
         }
         //  [AuthorizationViewHandler]
@@ -614,7 +614,7 @@ namespace QuanLyTaiSan_UserManagement.Controllers
 
             ViewData["User"] = Ql.Users.Where(x => x.Status != 1 && x.IsDeleted == false).ToList();
             String ProjectSymbol = colection["ProjectSymbol"].Trim();
-            int? ManagerProject = colection["ManagerProject"].Equals("0") ? (int?)null : Convert.ToInt32(colection["ManagerProject"]);
+            int ManagerProject = colection["ManagerProject"].Equals("0") ? 0 : Convert.ToInt32(colection["ManagerProject"]);
 
             int departmentId = -1;
             if (session.GroupID == "DIRECTOR" || session.GroupID == "MANAGER")
@@ -627,11 +627,11 @@ namespace QuanLyTaiSan_UserManagement.Controllers
             {
                 departmentId = int.Parse(departmentSearch);
             }
-            var lstProject = Ql.GetUnitsById(departmentId, session.UserName).ToList().Where(x => x.HasChild == 0).ToList().OrderByDescending(x => x.ModifiedDate);
+            var lstProject = Ql.GetUnitsById(departmentId, session.UserName, ManagerProject, ProjectSymbol).ToList().Where(x => x.HasChild == 0).ToList().OrderByDescending(x => x.ModifiedDate);
             var ViewProject = lstProject;
             ViewBag.ManagerProject = ManagerProject;
             ViewBag.ProjectSymbol = ProjectSymbol;
-            ViewBag.ProjectNb = Ql.GetUnitsById(departmentId, session.UserName).Where(x => x.HasChild == 0).ToList().Count();
+            ViewBag.ProjectNb = lstProject.Count();
             return View("UnitDepartment", ViewProject);
         }
         [HttpPost]
