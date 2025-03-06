@@ -107,7 +107,7 @@
                             </select>
                         </div>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group department-section" style="display: none;">
                         <label class="col-md-4 control-label"> Phòng ban </label>
                         <div class="col-md-8">
                             <select class="form-control" style="color: #888484" name="Department" id="Department">
@@ -118,7 +118,7 @@
                             </select>
                         </div>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group unit-section" style="display: none;">
                         <label class="col-md-4 control-label"> Đơn vị </label>
                         <div class="col-md-8">
                             <select class="form-control" style="color: #888484" name="UnitDepartment" id="UnitDepartment">
@@ -183,7 +183,18 @@
                             </select>
                         </div>
                     </div>
-                    <div class="form-group">
+                     <div class="form-group">
+                        <label class="col-md-4 control-label"> Quyền </label>
+                        <div class="col-md-8">
+                            <select class="form-control" style="color: #888484" name="RoleEdit" id="RoleEdit">
+                                @foreach (var item in ViewData["Roles"] as IList<UserGroup>)
+                                {
+                                    <option value="@item.ID">@item.Name</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group department-section-edit" style="display: none;">
                         <label class="col-md-4 control-label"> Phòng ban </label>
                         <div class="col-md-8">
                             <select class="form-control" style="color: #888484" name="DepartmentEdit" id="DepartmentEdit">
@@ -194,24 +205,13 @@
                             </select>
                         </div>
                     </div>
-                    <div class="form-group">
+                    <div class="form-group unit-section-edit" style="display: none;">
                         <label class="col-md-4 control-label"> Đơn vị </label>
                         <div class="col-md-8">
                             <select class="form-control" style="color: #888484" name="UnitDepartmentEdit" id="UnitDepartmentEdit">
                                 @foreach (var item in (ViewData["Department"] as IList<GetUnitsById_Result>).Where(x => x.HasChild == 0).ToList())
                                 {
                                     <option value="@item.Id">@item.ProjectName</option>
-                                }
-                            </select>
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label class="col-md-4 control-label"> Quyền </label>
-                        <div class="col-md-8">
-                            <select class="form-control" style="color: #888484" name="RoleEdit" id="RoleEdit">
-                                @foreach (var item in ViewData["Roles"] as IList<UserGroup>)
-                                {
-                                    <option value="@item.ID">@item.Name</option>
                                 }
                             </select>
                         </div>
@@ -334,16 +334,30 @@
             $('#ToastCheckNullName').hide();
             $('#ToastCheckNullDepartment').hide();
         }
-        else if (Department == "" || Department == null) {
+        else if (Role === "MANAGER" && (Department == "" || Department == null)) {
             $('#ToastCheckNullDepartment').show();
             $('#ToastCheckNullName').hide();
             $('#ToastCheckNullPass').hide();
         }
         else {
+            var departmentValue = null;
+            if (Role === "MANAGER") {
+                departmentValue = Department;
+            } else if (Role === "DIRECTOR") {
+                departmentValue = $('#Department').val().trim();
+            }
+
             $.ajax({
                 type: "POST",
                 url: "/UserRole/RegisterUser",
-                data: { FullName: FullName, Username: Username, Role: Role, Password: Password, Department: Department, TypeAcc: TypeAcc },
+                data: { 
+                    FullName: FullName, 
+                    Username: Username, 
+                    Role: Role, 
+                    Password: Password, 
+                    Department: departmentValue, 
+                    TypeAcc: TypeAcc 
+                },
                 success: function (result) {
                     if (result) {
                         location.reload();
@@ -374,7 +388,9 @@
                     $('#UnitDepartmentEdit').val(data.Email.trim());
                     $('#DepartmentEdit').val(data.Department.trim());
                     $('#TypeAccEdit').val(data.Status);
-                    TypeAcc
+                    
+                    // Hiển thị/ẩn các trường theo role
+                    toggleDepartmentFieldsEdit(data.GroupId.trim());
                 } else {
                     alert('Có lỗi xảy ra trong quá trình xử lí');
                 }
@@ -382,7 +398,41 @@
         });
     });
 
+    // Hàm kiểm tra và hiển thị/ẩn các trường dựa trên quyền cho form edit
+    function toggleDepartmentFieldsEdit(roleValue) {
+        // Ẩn tất cả trước
+        $('.department-section-edit').hide();
+        $('.unit-section-edit').hide();
 
+        // Xử lý theo từng loại role
+        switch(roleValue) {
+            case "ADMIN":
+                // Ẩn cả hai trường
+                break;
+            case "DIRECTOR":
+                // Chỉ hiện phòng ban
+                $('.department-section-edit').show();
+                break;
+            case "MANAGER":
+                // Hiện cả phòng ban và đơn vị
+                $('.department-section-edit').show();
+                $('.unit-section-edit').show();
+                break;
+        }
+    }
+
+    // Xử lý sự kiện khi thay đổi role trong form edit
+    $('#RoleEdit').change(function() {
+        toggleDepartmentFieldsEdit($(this).val());
+        
+        // Reset giá trị của các trường khi thay đổi quyền thành ADMIN
+        if ($(this).val() === "ADMIN") {
+            $('#DepartmentEdit').val($('#DepartmentEdit option:first').val());
+            $('#UnitDepartmentEdit').val($('#UnitDepartmentEdit option:first').val());
+        }
+    });
+
+    // Cập nhật xử lý submit form edit
     $("#btnConfirmEdit").click(function () {
         var ID = $('#HiddenUserIdRole').val().trim();
         var FullNameEdit = $('#FullNameEdit').val().trim();
@@ -401,21 +451,32 @@
             $('#ToastCheckNullPassEdit').show();
             $('#ToastCheckNullNameEdit').hide();
             $('#ToastCheckNullDepartmentEdit').hide();
-
         }
-        else if (PasswordEdit == "" || PasswordEdit == null) {
+        else if (RoleEdit === "MANAGER" && (DepartmentEdit == "" || DepartmentEdit == null)) {
             $('#ToastCheckNullDepartmentEdit').show();
             $('#ToastCheckNullNameEdit').hide();
             $('#ToastCheckNullPassEdit').hide();
-
         }
-
-
         else {
+            var departmentValue = null;
+            if (RoleEdit === "MANAGER") {
+                departmentValue = DepartmentEdit;
+            } else if (RoleEdit === "DIRECTOR") {
+                departmentValue = $('#DepartmentEdit').val().trim();
+            }
+
             $.ajax({
                 type: "POST",
                 url: "/UserRole/ChangeRoleByUserId",
-                data: { ID: ID, FullName: FullNameEdit, Username: UsernameEdit, Role: RoleEdit, Password: PasswordEdit, Department: DepartmentEdit, TypeAcc: TypeAccEdit },
+                data: { 
+                    ID: ID, 
+                    FullName: FullNameEdit, 
+                    Username: UsernameEdit, 
+                    Role: RoleEdit, 
+                    Password: PasswordEdit, 
+                    Department: departmentValue, 
+                    TypeAcc: TypeAccEdit 
+                },
                 success: function (result) {
                     if (result) {
                         location.reload();
@@ -446,6 +507,46 @@
             });
         });
 
+    });
+
+    // Hàm kiểm tra và hiển thị/ẩn các trường dựa trên quyền
+    function toggleDepartmentFields(roleValue) {
+        // Ẩn tất cả trước
+        $('.department-section').hide();
+        $('.unit-section').hide();
+
+        // Xử lý theo từng loại role
+        switch(roleValue) {
+            case "ADMIN":
+                // Ẩn cả hai trường
+                break;
+            case "DIRECTOR":
+                // Chỉ hiện phòng ban
+                $('.department-section').show();
+                break;
+            case "MANAGER":
+                // Hiện cả phòng ban và đơn vị
+                $('.department-section').show();
+                $('.unit-section').show();
+                break;
+        }
+    }
+
+    // Xử lý sự kiện khi trang được tải
+    $(document).ready(function() {
+        // Kiểm tra giá trị quyền ban đầu
+        toggleDepartmentFields($('#Role').val());
+        
+        // Xử lý sự kiện khi thay đổi quyền
+        $('#Role').change(function() {
+            toggleDepartmentFields($(this).val());
+            
+            // Reset giá trị của các trường khi thay đổi quyền
+            if ($(this).val() === "ADMIN") {
+                $('#Department').val($('#Department option:first').val());
+                $('#UnitDepartment').val($('#UnitDepartment option:first').val());
+            }
+        });
     });
 </script>
 
