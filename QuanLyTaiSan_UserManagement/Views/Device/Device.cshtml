@@ -47,6 +47,15 @@
                                     </select>
                                 </div>*@
                                 <div class="col-md-2 TcssMarg select2css">
+                                    <select class="form-control input-sm m-bot15 myctr seachRoom" name="ProjectDKCParent" id="ProjectDKCParent">
+                                        <option value="0">Chọn phòng ban</option>
+                                        @foreach (var item in (ViewData["ProjectDKC"] as IList<GetUnitsById_Result>).Where(x => x.HasChild == 1).ToList())
+                                        {
+                                            <option value="@item.Id" @( ViewBag.poject == @item.Id ? "selected" : "")>@item.ProjectName</option>
+                                        }
+                                    </select>
+                                </div>
+                                <div class="col-md-2 TcssMarg select2css">
                                     <select class="form-control input-sm m-bot15 myctr seachRoom" name="ProjectDKC" id="ProjectDKC">
                                         <option value="0">Chọn đơn vị</option>
                                         @foreach (var item in (ViewData["ProjectDKC"] as IList<GetUnitsById_Result>).Where(x => x.HasChild == 0).ToList())
