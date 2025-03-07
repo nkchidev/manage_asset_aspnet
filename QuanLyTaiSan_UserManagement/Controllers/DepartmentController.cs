@@ -537,7 +537,8 @@ namespace QuanLyTaiSan_UserManagement.Controllers
                 departmetnId = Int32.Parse(Ql.UserLogins.Where(x => x.UserName == session.UserName).Select(x => x.Email).FirstOrDefault() ?? "0");
             }
 
-            ViewData["StatisticProject"] = Ql.StatisticProject(departmetnId).ToList();
+            ViewData["StatisticProject"] = Ql.StatisticProject(departmetnId).Where(x => x.Id != departmetnId).ToList();
+            
             return View();
         }
 
