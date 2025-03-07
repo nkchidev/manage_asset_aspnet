@@ -51,7 +51,7 @@
                                         <option value="0">Chọn phòng ban</option>
                                         @foreach (var item in (ViewData["ProjectDKC"] as IList<GetUnitsById_Result>).Where(x => x.HasChild == 1).ToList())
                                         {
-                                            <option value="@item.Id" @( ViewBag.poject == @item.Id ? "selected" : "")>@item.ProjectName</option>
+                                            <option value="@item.Id" @( ViewBag.ProjectParent == @item.Id ? "selected" : "")>@item.ProjectName</option>
                                         }
                                     </select>
                                 </div>

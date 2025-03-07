@@ -24,6 +24,7 @@ using static System.Net.Mime.MediaTypeNames;
 using QuanLyTaiSan_UserManagement.Common;
 using QuanLyTaiSan_UserManagement.Helper;
 using System.Text;
+using System.Diagnostics;
 
 namespace QuanLyTaiSan_UserManagement.Controllers
 {
@@ -104,15 +105,17 @@ namespace QuanLyTaiSan_UserManagement.Controllers
             int? TypeOfDevice = collection["TypeOfDevice"].Equals("0") ? (int?)null : Convert.ToInt32(collection["TypeOfDevice"]);
             int Guarantee = Convert.ToInt32(collection["Guarantee"]);
             string Project = collection["ProjectDKC"];
+            string ProjectParent = collection["ProjectDKCParent"];
             if (!Project.Equals("0"))
             {
                 departmetnId = int.Parse(Project); 
             }
             string DeviceCode = collection["DeviceCode"];
-            var charts = data.SearchDevice(Status, TypeOfDevice, Guarantee, departmetnId, DeviceCode,session.UserName).Where(x => x.Status != 2).ToList().OrderBy(x => x.CreatedDate).OrderBy(x => x.DeviceCode);
-            ViewBag.CountDevice = data.SearchDevice(Status, TypeOfDevice, Guarantee, departmetnId, DeviceCode.Trim(), session.UserName).Where(x => x.Status != 2).Count();
+            var charts = data.SearchDevice(Status, TypeOfDevice, Guarantee, departmetnId, DeviceCode,session.UserName, int.Parse(ProjectParent)).Where(x => x.Status != 2).ToList().OrderBy(x => x.CreatedDate).OrderBy(x => x.DeviceCode);
+            ViewBag.CountDevice = data.SearchDevice(Status, TypeOfDevice, Guarantee, departmetnId, DeviceCode.Trim(), session.UserName, int.Parse(ProjectParent)).Where(x => x.Status != 2).Count();
             ViewBag.status = Status;
             ViewBag.deviceCode = DeviceCode;
+            ViewBag.ProjectParent = int.Parse(ProjectParent);
             ViewBag.type = TypeOfDevice;
             ViewBag.guarantee = Guarantee;
             ViewBag.poject = int.Parse(Project);
@@ -184,6 +187,8 @@ namespace QuanLyTaiSan_UserManagement.Controllers
             ViewBag.type = TypeOfDevice;
             ViewBag.guarantee = Guarantee;
             ViewBag.poject = int.Parse(Project);
+            string ProjectParent = collection["ProjectDKCParent"];
+            ViewBag.ProjectParent = int.Parse(ProjectParent);
             ViewBag.Title = data.DeviceTypes.Where(x => x.Id == TypeOfDevice).SingleOrDefault().TypeName.ToString();
             ViewData["TypeOfDevice"] = data.DeviceTypes.Where(x => x.Id == TypeOfDevice).ToList();
             var model = charts.ToList();
