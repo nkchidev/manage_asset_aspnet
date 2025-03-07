@@ -1930,7 +1930,7 @@ namespace QuanLyTaiSan_UserManagement.Models
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetUnitsById_Result>("GetUnitsById", idParameter, userNameParameter, managerProjectParameter, ProjectSymbolParameter);
         }
     
-        public virtual ObjectResult<SearchDevice_Result> SearchDevice(Nullable<int> status, Nullable<int> devicetype, Nullable<int> guarantee, Nullable<int> projectid, string devicecode, string userName)
+        public virtual ObjectResult<SearchDevice_Result> SearchDevice(Nullable<int> status, Nullable<int> devicetype, Nullable<int> guarantee, Nullable<int> projectid, string devicecode, string userName, int ProjectParent = 0)
         {
             var statusParameter = status.HasValue ?
                 new ObjectParameter("status", status) :
@@ -1955,8 +1955,12 @@ namespace QuanLyTaiSan_UserManagement.Models
             var userNameParameter = userName != null ?
                 new ObjectParameter("userName", userName) :
                 new ObjectParameter("userName", typeof(string));
-    
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SearchDevice_Result>("SearchDevice", statusParameter, devicetypeParameter, guaranteeParameter, projectidParameter, devicecodeParameter, userNameParameter);
+            
+            var ProjectParentParameter = ProjectParent != 0 ?
+                new ObjectParameter("ProjectParent", ProjectParent) :
+                new ObjectParameter("ProjectParent", typeof(int));
+
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<SearchDevice_Result>("SearchDevice", statusParameter, devicetypeParameter, guaranteeParameter, projectidParameter, devicecodeParameter, userNameParameter, ProjectParentParameter);
         }
     }
 }
