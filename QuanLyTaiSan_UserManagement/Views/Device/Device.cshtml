@@ -237,6 +237,60 @@
     $('.seachRoom').select2();
     $('.searchType').select2();
 
+    // Xử lý sự kiện khi chọn phòng ban
+    $("#ProjectDKCParent").change(function () {
+        var id = $(this).val(); 
+        var selectedProjectId = '@ViewBag.poject'; // Lưu lại giá trị đã chọn
+        
+        if (id) {
+            $.ajax({
+                type: 'GET',
+                dataType: 'json',
+                url: "/UserRole/GetListDepartmentByIds",
+                data: { id: parseInt(id) },
+                success: function (response) {
+                    var data = response.result;
+                    if (data != null) {
+                        $('#ProjectDKC').empty();
+                        $('#ProjectDKC').append('<option value="0">Chọn đơn vị</option>');
+                        $.each(data, function (index, option) {
+                            var selected = (option.Id == selectedProjectId) ? 'selected' : '';
+                            $('#ProjectDKC').append('<option value="' + option.Id + '" ' + selected + '>' + option.ProjectName + '</option>');
+                        });
+                        // Refresh select2
+                        $('#ProjectDKC').trigger('change');
+                    } else {
+                        alert('Có lỗi xảy ra trong quá trình xử lý');
+                    }
+                },
+                error: function () {
+                    alert("Error occurred while updating the second dropdown.");
+                }
+            });
+        } else {
+            $('#ProjectDKC').empty();
+            $('#ProjectDKC').append('<option value="0">Chọn đơn vị</option>');
+            $('#ProjectDKC').trigger('change');
+        }
+    }); 
+
+    // Trigger change event khi trang được load
+    $(document).ready(function() {
+        // Nếu có phòng ban được chọn, trigger change để load đơn vị
+        var selectedDepartment = $('#ProjectDKCParent').val();
+        if (selectedDepartment && selectedDepartment != "0") {
+            $('#ProjectDKCParent').trigger('change');
+        }
+        // Nếu không có phòng ban được chọn nhưng có đơn vị được chọn
+        else if ('@ViewBag.poject' != '' && '@ViewBag.poject' != '0') {
+            // Tìm phòng ban cha của đơn vị đã chọn và set selected
+            var parentId = '@ViewBag.ProjectParent';
+            if (parentId && parentId != '0') {
+                $('#ProjectDKCParent').val(parentId).trigger('change');
+            }
+        }
+    });
+
     // Export to exel
     function fnExcelReport() {
         var TypeOfDevice = $('#TypeOfDevice').val();
