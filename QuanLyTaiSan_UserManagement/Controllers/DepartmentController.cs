@@ -611,29 +611,46 @@ namespace QuanLyTaiSan_UserManagement.Controllers
         public ActionResult SeachUnitDepartment(FormCollection colection, ProjectDKC Project)
         {
             var session = (UserLoginSec)Session[CommonConstants.USER_SESSION];
-            var model = Ql.Users.Where(x => x.UserName == session.UserName).Select(x => x).FirstOrDefault();
+            if (session == null)
+            {
+                return RedirectToAction("Login", "Account"); // Chuyển hướng nếu session null
+            }
 
+            var model = Ql.Users.FirstOrDefault(x => x.UserName == session.UserName);
             ViewData["User"] = Ql.Users.Where(x => x.Status != 1 && x.IsDeleted == false).ToList();
-            String ProjectSymbol = colection["ProjectSymbol"].Trim();
-            int ManagerProject = colection["ManagerProject"].Equals("0") ? 0 : Convert.ToInt32(colection["ManagerProject"]);
+
+            string projectSymbol = colection["ProjectSymbol"]?.Trim() ?? "";
+            int managerProject = (colection["ManagerProject"] == "0") ? 0 : Convert.ToInt32(colection["ManagerProject"]);
 
             int departmentId = -1;
+
             if (session.GroupID == "DIRECTOR" || session.GroupID == "MANAGER")
             {
-                departmentId = Int32.Parse(Ql.UserLogins.Where(x => x.UserName == session.UserName).Select(x => x.Email).FirstOrDefault() ?? "0");
+                var userLogin = Ql.UserLogins.FirstOrDefault(x => x.UserName == session.UserName);
+                string email = userLogin?.Email; // Kiểm tra null
+
+                if (!int.TryParse(email, out departmentId)) // Kiểm tra dữ liệu hợp lệ
+                {
+                    departmentId = 0;
+                }
             }
-            ViewData["Department"] = Ql.GetUnitsById(departmentId, session.UserName).ToList().Where(x => x.HasChild == 1).Select(x => x).ToList();
-            var departmentSearch = colection["DepartmentId"].Trim();
-            if (!departmentSearch.Equals("0"))
+
+            string departmentSearch = colection["DepartmentId"]?.Trim();
+            if (!string.IsNullOrEmpty(departmentSearch) && departmentSearch != "0")
             {
                 departmentId = int.Parse(departmentSearch);
             }
-            var lstProject = Ql.GetUnitsById(departmentId, session.UserName, ManagerProject, ProjectSymbol).ToList().Where(x => x.HasChild == 0).ToList().OrderByDescending(x => x.ModifiedDate);
-            var ViewProject = lstProject;
-            ViewBag.ManagerProject = ManagerProject;
-            ViewBag.ProjectSymbol = ProjectSymbol;
+
+            var lstProject = Ql.GetUnitsById(departmentId, session.UserName, managerProject, projectSymbol)
+                .Where(x => x.HasChild == 0)
+                .OrderByDescending(x => x.ModifiedDate)
+                .ToList();
+
+            ViewBag.ManagerProject = managerProject;
+            ViewBag.ProjectSymbol = projectSymbol;
             ViewBag.ProjectNb = lstProject.Count();
-            return View("UnitDepartment", ViewProject);
+
+            return View("UnitDepartment", lstProject);
         }
         [HttpPost]
         public ActionResult UnitDepartmentAdd(FormCollection colection, ProjectDKC Project)
